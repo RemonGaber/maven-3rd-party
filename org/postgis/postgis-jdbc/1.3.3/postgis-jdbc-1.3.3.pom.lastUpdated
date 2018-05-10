@@ -1,0 +1,9 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sun Apr 06 00:03:01 EET 2014
+http\://www.hibernatespatial.org/repository/.lastUpdated=1396735379479
+http\://repo.maven.apache.org/maven2/.lastUpdated=1396735381615
+default-http\://repository.jboss.com/maven2/.lastUpdated=1396735380748
+http\://download.osgeo.org/webdav/geotools/.error=
+http\://download.osgeo.org/webdav/geotools/.lastUpdated=1396735379187
+http\://repository.jboss.com/maven2/.error=Could not transfer artifact org.postgis\:postgis-jdbc\:pom\:1.3.3 from/to JBOSS (http\://repository.jboss.com/maven2)\: Access denied to\: http\://repository.jboss.com/maven2/org/postgis/postgis-jdbc/1.3.3/postgis-jdbc-1.3.3.pom , ReasonPhrase\:Forbidden.
+http\://www.hibernatespatial.org/repository/.error=

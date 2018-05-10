@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com</groupId>
+  <artifactId>jtattoo</artifactId>
+  <packaging>jar</packaging>
+  <version>1.6</version>
+  <name>JTattoo Look And Feel</name>
+  <url>http://www.jtattoo.net/index.html</url>
+</project>

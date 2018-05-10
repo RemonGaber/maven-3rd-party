@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.swinglabs</groupId>
+  <artifactId>swingx-all</artifactId>
+  <packaging>jar</packaging>
+  <version>1.6.4</version>
+  <name>Contains extensions to the Swing GUI toolkit, including new and enhanced components that provide functionality commonly required by rich client applications. </name>
+  <url>http://swingx.java.net/</url>
+</project>

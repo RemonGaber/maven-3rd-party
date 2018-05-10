@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com</groupId>
+  <artifactId>jcsv</artifactId>
+  <packaging>jar</packaging>
+  <version>1.4.0</version>
+  <name>Simple CSV library for Java</name>
+  <url>https://code.google.com/p/jcsv/</url>
+</project>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com</groupId>
+  <artifactId>jmdns</artifactId>
+  <packaging>jar</packaging>
+  <version>3.4.1</version>
+  <name>Jmdns is a java implementation of the IETF draft RFP multicast extensions for DNS</name>
+  <url>http://sourceforge.net/projects/jmdns/</url>
+</project>
